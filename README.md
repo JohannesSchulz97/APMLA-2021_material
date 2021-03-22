@@ -43,7 +43,7 @@ For the EXAM, NEED to officially register  either via Campus / ALMA or written i
 7. **Bethe Approximation and Belief Propagation part II** 
 8. **Stochastic Block Model**  
 9. **Poisson matrix factorization**
-10. **Probailistic matrix factorization** for reccomender systems
+10. **Probabilistic matrix factorization** for recommender systems
 11. **GMMs + Variational Inference (VI)** 
 13. **VI + LDA** 
 14. **Advanced VI: Stochastic VI and Black Box VI** 
