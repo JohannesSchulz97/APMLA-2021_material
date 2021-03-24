@@ -18,6 +18,8 @@ For any general question about the course, use GitHub issues. Before posting, pl
 
 **Lecture-free days**: Thursday, 13. Mai 2021 (Christi Himmelfahrt), from Monday, 24. Mai 2021 until Sunday, 30. Mai 2021 (Pfingstpause), Thursday, 3. Juni 2021 (Fronleichnam).  
 
+**Prerequisites**: all the previous knowledge required by the class Probabilistic Machine Learning applies here too. Nothing extra is needed, so if you are following that class, you are good to go here too.
+There will be some overlapping contents for sure between the two classes, although my class is more focused on the application side.
 
 For the EXAM, NEED to officially register  either via Campus / ALMA or written if the student cannot register online (closer to the exam date).  
 
