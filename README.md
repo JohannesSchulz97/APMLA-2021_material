@@ -17,6 +17,8 @@ A **passcode** will be posted here the day of the lecture, it will change from w
 
 **Tutorials**: Thursday 16:00-17.45pm  online. 
 
+**Feedback**: after every lecture you are free to give a feedback via this [form](https://forms.gle/LZbAqG5428AXEcS28).
+
 **Lecture-free days**: Thursday, 13. Mai 2021 (Christi Himmelfahrt), from Monday, 24. Mai 2021 until Sunday, 30. Mai 2021 (Pfingstpause), Thursday, 3. Juni 2021 (Fronleichnam).  
 
 **Prerequisites**: all the previous knowledge required by the class Probabilistic Machine Learning applies here too. Nothing extra is needed, so if you are following that class, you are good to go here too.
