@@ -12,10 +12,10 @@ For any general question about the course, use GitHub issues. Before posting, pl
 
 **Plan**:  19 Apr 2021 - 31 Jul 2021, 14 weeks, 2+2 hr/week, 14 weeks, 56hr
 
-**Lectures**:  Wednesdays 14:15-16pm online on [Zoom](https://zoom.us/j/94529176606).   
+**Lectures**:  Wednesdays 14:15-16pm online on [Zoom](https://zoom.us/j/94529176606). 
 A **passcode** will be posted here the day of the lecture, it will change from week to week.
 
-**Tutorials**: Thursday 16:00-17.45pm  online. 
+**Tutorials**: Thursday 16:00-17.45pm  online on [Zoom](https://zoom.us/j/99581700609). 
 
 **Feedback**: after every lecture you are free to give a feedback via this [form](https://forms.gle/LZbAqG5428AXEcS28).
 
